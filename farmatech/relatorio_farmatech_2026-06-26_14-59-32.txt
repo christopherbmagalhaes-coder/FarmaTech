@@ -1,0 +1,20 @@
+==========================================================
+FARMATECH - RELATÓRIO EXPORTADO DE VENDAS E ESTATÍSTICAS
+==========================================================
+Gerado em:26/06/2026 14:59:32
+--------------------------------------------------------------1. HISTÓRICO FINANCEIRO (BI)
+Faturamento Bruto Total: R$ 101.32
+Total de Cupons Emitidos: 1 cupons
+Ticket Médio por Cupom:   R$ 101.32
+
+2. DESEMPENHO DE PRODUTOS
+------------------------------------------------------------
+Item Mais Vendido Geral: %@ZuZu 09*f¨¨ (2 unidades)
+
+3. DETALHAMENTO DE TODAS AS VENDAS
+------------------------------------------------------------
+| Cupom: 1     | Data: 2026-06-26_14-59-32 | Produto: %@ZuZu 09*f¨¨        | Qtd: 2   | Total: R$ 101.32
+
+------------------------------------------------------------
+FIM DO RELATÓRIO -  FARMATECH 
+============================================================
