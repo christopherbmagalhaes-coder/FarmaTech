@@ -11,7 +11,7 @@ def menu_princ(caixa_atual, est_prod, est_med):#busca os dados e a interface só
 
     print("PRODUTOS:\n")
 
-    if not est_prod:#caso nn tenha produtos
+    if not est_prod:#caso não tenha produtos
         print("Nenhum produto encontrado.\n")
     else:
         for item in est_prod:
